@@ -4,7 +4,7 @@ Now a days snakes are vegetarian :p
 
 Features included:
     *The​ ​snake​ ​is​ ​controlled​ ​with​ ​the​ ​arrow​ ​keys.
-   \n *Each​ ​time​ ​the​ ​snake​ ​eats​ ​a​ ​fruit,​ ​its​ ​body​ ​grows by one unit.
+    *Each​ ​time​ ​the​ ​snake​ ​eats​ ​a​ ​fruit,​ ​its​ ​body​ ​grows by one unit.
     *The​ ​snake​ ​must​ ​avoid​ ​the​ ​lava.
     *Scoreboard​ ​which​ ​shows​ ​the​ ​score​ ​of​ ​the​ ​player.
     *When​ ​the​ ​game​ ​is​ ​finished,​ ​the​ ​"Game​ ​Over"​ ​message​ ​is​ ​displayed.
